@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.0.1)
+  - AlamofireImage (3.1.0):
+    - Alamofire (~> 4.0)
+  - ObjectMapper (2.1.0)
+  - RxCocoa (3.0.0-beta.1):
+    - RxSwift (~> 3.0.0-beta.1)
+  - RxDataSources (1.0.0-beta.2):
+    - RxCocoa (~> 3.0.0-beta.1)
+    - RxSwift (~> 3.0.0-beta.1)
+  - RxSwift (3.0.0-beta.1)
+  - SwiftyJSON (3.1.1)
+  - Typhoon (3.5.1):
+    - Typhoon/no-arc (= 3.5.1)
+  - Typhoon/no-arc (3.5.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ObjectMapper
+  - RxCocoa (= 3.0.0-beta.1)
+  - RxDataSources (= 1.0.0-beta.2)
+  - RxSwift (= 3.0.0-beta.1)
+  - SwiftyJSON
+  - Typhoon
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  AlamofireImage: bb8c8351c51cb1633bb6be69b6dbbaff37ce65b7
+  ObjectMapper: e5e0f8aef8590fc2ddcde7f27eddb255863ee6e9
+  RxCocoa: 8cecf331302b8ae5381bbab1bccba4ede2eae6a8
+  RxDataSources: 1cd87dc97fd46be002942eb1dcb1b432535141dd
+  RxSwift: 0823e8d7969c23bfa9ddfb2afa4881e424a1a710
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
+  Typhoon: c0950bb9f2e835eb8a7dc6983160109b6baf2dda
+
+PODFILE CHECKSUM: 64e657619b372ef452454aab5be0cf963220300f
+
+COCOAPODS: 1.1.1
